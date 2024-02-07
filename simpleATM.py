@@ -139,8 +139,7 @@ class Main:
         bank.addAccToCard('1234', '12345678')
         bank.addAccToCard('2024', '20240207')
         bank.addAccToCard('2024', '11111111')
-        print(bank.accounts)
-        print(bank.cards)
+
         while True:
             print("======= Simple ATM Controller =======")
             print("카드를 넣어주세요. (카드 번호를 입력하세요.)")
