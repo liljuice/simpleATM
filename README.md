@@ -28,9 +28,10 @@ Requirements : Python 3
 ```
 git clone https://github.com/liljuice/simpleATM.git
 ```
-2) 실행하기
+2) Clone된 로컬 디렉토리로 이동 및 실행하기
 ```
-python3 simpleATM.py
+cd simpleATM
+simpleATM.py
 ```
 ### Test Cases
 ---
